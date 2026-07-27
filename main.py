@@ -1,0 +1,1 @@
+print("bosun v0.1 - Dockerfile generator & linter")
